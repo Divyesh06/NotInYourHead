@@ -8,4 +8,4 @@ A blog site that raises awareness against mental health issues and how they are 
 
 ___
 
-This website was made with basic HTML/CSS/JavaScript for the purpose of a college assignment
+This website was made with basic HTML/CSS/JavaScript for the purpose of a college assignment. To test this website, download the repository and open index.html
